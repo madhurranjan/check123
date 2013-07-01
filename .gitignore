@@ -2,6 +2,7 @@
 *.slo
 *.lo
 *.o
+**/new/node_modules
 
 # Compiled Dynamic libraries
 *.so
